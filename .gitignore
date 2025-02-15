@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# test file for lab1
+lab1/*.txt
+!lab1/input.txt
